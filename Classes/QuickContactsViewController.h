@@ -1,0 +1,4 @@
+
+
+@interface QuickContactsViewController : UITableViewController
+@end
